@@ -1,0 +1,29 @@
+gaussian 10 original SNR:13.590441899785697
+gaussian 10 3x3 box filter SNR:17.725567798215
+gaussian 10 5x5 box filter SNR:14.854176375387624
+gaussian 10 3x3 median filter SNR:17.6726427361386
+gaussian 10 5x5 median filter SNR:15.977133480715448
+gaussian 10 opening then closing SNR:-11.573559859758218
+gaussian 10 closing then opening SNR:13.561471762266056
+gaussian 30 original SNR:2.2063468150820813
+gaussian 30 3x3 box filter SNR:9.892457010054972
+gaussian 30 5x5 box filter SNR:10.896964175565294
+gaussian 30 3x3 median filter SNR:10.728429134811211
+gaussian 30 5x5 median filter SNR:12.467744579199167
+gaussian 30 opening then closing SNR:-12.25236435862132
+gaussian 30 closing then opening SNR:8.196250275997151
+salt and pepper 0.05 original SNR:1.033066101661856
+salt and pepper 0.05 3x3 box filter SNR:9.573545699202313
+salt and pepper 0.05 5x5 box filter SNR:11.223695429437555
+salt and pepper 0.05 3x3 median filter SNR:19.20283053522801
+salt and pepper 0.05 5x5 median filter SNR:16.33434936729471
+salt and pepper 0.05 opening then closing SNR:-12.509741623125771
+salt and pepper 0.05 closing then opening SNR:5.98370568700036
+salt and pepper 0.1 original SNR:-1.878039012946401
+salt and pepper 0.1 3x3 box filter SNR:-0.4133415709887315
+salt and pepper 0.1 5x5 box filter SNR:0.6621283840907093
+salt and pepper 0.1 3x3 median filter SNR:15.538622161766718
+salt and pepper 0.1 5x5 median filter SNR:15.787165993252062
+salt and pepper 0.1 opening then closing SNR:-13.573194574077284
+salt and pepper 0.1 closing then opening SNR:-1.8337723351645487
+Log Generated:2019/11/23 16:19:00
